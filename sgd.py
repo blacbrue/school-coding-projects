@@ -8,3 +8,6 @@ if gredSains == "A":
         print('Maaf! Anda tidal layak ke Aliran Sains')
 else:
     print('Maaf! Anda tidal layak ke Aliran Sains')
+
+# In command line do: python sgd.py
+
